@@ -1,9 +1,16 @@
  
  # Hi, I'm Anshu Vairagade ! 👋
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshuVairagade)](https://github.com/AnshuVairagade/github-readme-stats)
 📍 Nagpur, Maharashtra, India  
 📧 anshuvairagade7@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/anshuvairagade) 
+
+
+---
+<img src="https://github-readme-stats.vercel.app/api?username=AnshuVairagade" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AnshuVairagade)](https://git.io/streak-stats)
+
+---
 
 ## 🚀 About Me
 I'm a passionate **Software Developer** and **Web Developer** pursuing my **B.Tech in Computer Engineering** at **Yeshwantrao Chavan College of Engineering (YCCE), Nagpur**. With a strong foundation in **Data Structures & Algorithms, Operating Systems, OOPS, and Database Management Systems**, I enjoy building scalable web applications and exploring new technologies.
@@ -20,9 +27,6 @@ I'm a passionate **Software Developer** and **Web Developer** pursuing my **B.Te
 - **Tools & Databases:**  GitHub, Postman, Linux, MySQL, MongoDB, ChromaDB
 - **Libraries & Frameworks:**  Spring Boot, Lang-Chain, Node.js, React.js, NumPy, Pandas, Scikit-learn, Matplotlib
 
----
-
-<img src="https://github-readme-stats.vercel.app/api?username=AnshuVairagade" />
 ---
 
 ## 🏆 Achievements
