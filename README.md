@@ -1,6 +1,5 @@
  
  # Hi, I'm Anshu Vairagade ! 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshuVairagade)](https://github.com/AnshuVairagade/github-readme-stats)
 📍 Nagpur, Maharashtra, India  
 📧 anshuvairagade7@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/anshuvairagade) 
